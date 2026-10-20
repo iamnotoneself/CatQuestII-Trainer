@@ -23,6 +23,14 @@
 - 右下角「状态刷新」：界面卡住时一键恢复并重新识别
 - 圆角 UI 设计，整窗圆角
 
+## 界面截图
+
+![一键功能页](docs/screenshot-adv.png)
+
+![强迫症修改页](docs/screenshot-ocd.png)
+
+![原理说明页](docs/screenshot-help.png)
+
 ## 使用方法
 
 1. 打开游戏并进入可操作角色的画面
