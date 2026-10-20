@@ -25,11 +25,11 @@
 
 ## 界面截图
 
-![一键功能页](docs/screenshot-adv.png)
+![一键功能页](https://gcore.jsdelivr.net/gh/iamnotoneself/CatQuestII-Trainer@main/docs/screenshot-adv.png)
 
-![强迫症修改页](docs/screenshot-ocd.png)
+![强迫症修改页](https://gcore.jsdelivr.net/gh/iamnotoneself/CatQuestII-Trainer@main/docs/screenshot-ocd.png)
 
-![原理说明页](docs/screenshot-help.png)
+![原理说明页](https://gcore.jsdelivr.net/gh/iamnotoneself/CatQuestII-Trainer@main/docs/screenshot-help.png)
 
 ## 使用方法
 
