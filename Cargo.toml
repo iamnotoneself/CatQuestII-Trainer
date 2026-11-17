@@ -1,0 +1,20 @@
+[package]
+name = "CatQuestIITrainer"
+version = "2.0.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
+windows = { version = "0.62.2", features = [
+    "Win32_Foundation",
+    "Win32_System_Memory",
+    "Win32_System_Threading",
+    "Win32_System_Diagnostics_Debug",
+    "Win32_System_Diagnostics_ToolHelp",
+    "Win32_Security",
+    "Win32_UI_WindowsAndMessaging",
+    "Win32_Graphics_Dwm",
+] }
+
+[profile.release]
+opt-level = 2
